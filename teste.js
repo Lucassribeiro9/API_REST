@@ -10,3 +10,6 @@ const saudacao = () => {
 helloworld();
 console.log(`A saudação do momento é: ` + saudacao());
 console.log('')
+
+// Notas
+// ESLint permite criar ou buscar um padrão de código; bom para projetos
