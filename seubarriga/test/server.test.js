@@ -1,6 +1,6 @@
 const supertest = require('supertest');
 
-const request = supertest('http:/localhost:3001');
+const request = supertest('http://localhost:3001');
 
 test('Deve responder na porta 3001', () => {
 // acessar a url http://localhost:3001
